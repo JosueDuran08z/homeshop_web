@@ -1,0 +1,14 @@
+﻿html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 0;
+}
+
+.bg-red-700 {
+    background-color: #d32f2f;
+}
